@@ -1,4 +1,4 @@
-#robofriends
+robofriends
 
 To run this application:
 
