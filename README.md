@@ -1,4 +1,4 @@
-robofriends-redux
+robofriends
 
 To run this application:
 
